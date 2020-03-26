@@ -1,32 +1,23 @@
-#tilte1 {
+#ID {
     background-color: #2574a9;
-    margin: 8px;
-    display: inline;
 }
 
-#form1 {
+#IDfield {
     background-color: #2574a9;
-    padding: 2px;
 }
 
-#tilte2 {
+#address {
     background-color: #9a12b3;
-    margin: 8px;
-    display: inline;
 }
 
-#form2 {
+#addressfield {
     background-color: #9a12b3;
-    padding: 2px;
 }
 
-#tilte3 {
+#creditcard {
     background-color: #db0a5b;
-    margin: 8px;
-    display: inline;
 }
 
-#form3 {
+#creditcardfield {
     background-color: #db0a5b;
-    padding: 2px;
 }
